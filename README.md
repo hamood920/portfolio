@@ -22,7 +22,6 @@ Crafting high-precision documentation for engineers and developers.
 </div>
 
 
-<div align="center">
 
 #  **Sebastian Ramesh — Technical Writer**
 ### _Embedded Linux | Device Drivers | API Documentation | Tutorials_
