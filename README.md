@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🖋️ **Technical Writing Portfolio**
+#  **Technical Writing Portfolio**
 ### _Clear • Accurate • Developer-Focused Documentation_
 
 **API Docs • Tutorials • How-To Guides • Reference Manuals • Release Notes**
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-# ⚡ **TECHNICAL DOCUMENTATION PORTFOLIO**
+#  **TECHNICAL DOCUMENTATION PORTFOLIO**
 ### _Embedded Systems • Linux • Drivers • API Documentation_
 
 Crafting high-precision documentation for engineers and developers.
@@ -24,7 +24,7 @@ Crafting high-precision documentation for engineers and developers.
 
 <div align="center">
 
-# 📘 **Sebastian Ramesh — Technical Writer**
+#  **Sebastian Ramesh — Technical Writer**
 ### _Embedded Linux | Device Drivers | API Documentation | Tutorials_
 
 **Transforming complex engineering concepts into clear, scalable documentation.**
