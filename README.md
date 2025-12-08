@@ -1,4 +1,4 @@
-<div align="center">
+
 
 #  **Technical Writing Portfolio**
 ### _Clear • Accurate • Developer-Focused Documentation_
@@ -10,7 +10,6 @@
 </div>
 
 
-<div align="center">
 
 #  **TECHNICAL DOCUMENTATION PORTFOLIO**
 ### _Embedded Systems • Linux • Drivers • API Documentation_
