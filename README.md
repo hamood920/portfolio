@@ -1,4 +1,17 @@
-# **Summary of Skills**
+
+## Summary of Skills
+![Technical Documentation](https://img.shields.io/badge/Technical-Documentation-blue)
+![API Documentation](https://img.shields.io/badge/API-Documentation-orange)
+![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-green)
+![Kernel & Drivers](https://img.shields.io/badge/Kernel_Drivers-Expertise-red)
+![Software Documentation](https://img.shields.io/badge/Software-Documentation-lightblue)
+![Information Architecture](https://img.shields.io/badge/Information-Architecture-purple)
+![Git Version Control](https://img.shields.io/badge/Git-Version_Control-yellow)
+![Markdown Pro](https://img.shields.io/badge/Markdown-Pro-brightgreen)
+![Research Skills](https://img.shields.io/badge/Research-Information_Gathering-9cf)
+![Process Documentation](https://img.shields.io/badge/Process-Documentation-ff69b4)
+![Writing for Engineers](https://img.shields.io/badge/Writing_for-Engineers-important)
+![SDK Documentation](https://img.shields.io/badge/SDK-Documentation-informational)
 
 ###  Summary of Skills
 
